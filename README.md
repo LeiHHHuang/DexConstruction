@@ -1,6 +1,6 @@
 # Dexterous manipulation of construction tools using anthropomorphic robotic hand
 
-This is the repository for the [DexConstruction](https://doi.org/10.1016/j.autcon.2023.105133).
+This is the repository for the project webpage of [DexConstruction](https://doi.org/10.1016/j.autcon.2023.105133).
 
 If you find our work useful for you please cite:
 ```
