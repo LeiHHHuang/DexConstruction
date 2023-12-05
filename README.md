@@ -13,7 +13,7 @@ If you find our work useful for you please cite:
   issn = {0926-5805},
   doi = {https://doi.org/10.1016/j.autcon.2023.105133},
   url = {https://www.sciencedirect.com/science/article/pii/S092658052300393X},
-  author = {Lei Huang and Weijia Cai and Zihan Zhu and Zhengbo Zou},
+  author = {Huang, Lei and Cai, Weijia and Zhu, Zihan and Zou, Zhengbo},
 }
 ```
 
