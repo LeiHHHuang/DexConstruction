@@ -1,16 +1,21 @@
-# Nerfies
+# Dexterous manipulation of construction tools using anthropomorphic robotic hand
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository for the [DexConstruction](https://doi.org/10.1016/j.autcon.2023.105133).
 
-If you find Nerfies useful for your work please cite:
+If you find our work useful for you please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@article{huang2023105133,
+  title = {Dexterous manipulation of construction tools using anthropomorphic robotic hand},
+  journal = {Automation in Construction},
+  volume = {156},
+  pages = {105133},
+  year = {2023},
+  issn = {0926-5805},
+  doi = {https://doi.org/10.1016/j.autcon.2023.105133},
+  url = {https://www.sciencedirect.com/science/article/pii/S092658052300393X},
+  author = {Lei Huang and Weijia Cai and Zihan Zhu and Zhengbo Zou},
 }
 ```
 
 # Website License
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+Website template borrowed from [NeRFies](https://github.com/nerfies/nerfies.github.io) made by the amazing [Keunhong Park](https://keunhong.com/).
